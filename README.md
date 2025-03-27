@@ -1,6 +1,11 @@
 # 🛠️ Tecnologias y Herramientas
 
 <div align="center">
+
+
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BnaTQzNTJueHBxZGN1emNuMXdsN295NmJsZmJwZmxsNGk1ZnJsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width="200"/>
+</div>
   
   ## 🔹 Backend  
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
