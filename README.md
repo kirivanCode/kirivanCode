@@ -1,4 +1,4 @@
-# 🛠️ Tecnologias y Herramientas
+# 🛠️ Tecnólogo en desarrollo de sistemas informaticos
 
 <div align="center">
 
